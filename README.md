@@ -47,6 +47,8 @@ Which macro-financial forces move Japan's benchmark index, do they survive Japan
 
 A three-page Power BI report on a pharmaceutical distributor's sales, built on a clean star schema.
 
+<img src="https://raw.githubusercontent.com/Kukai-7/pharma-sales-dashboard/main/pnl-waterfall.png" width="380" alt="P&L waterfall" />
+
 - **Executive P&L**: net revenue, gross margin, gross profit, year-over-year growth and a P&L waterfall
 - **Product performance**: top products by sales, volume and margin, with a margin vs revenue scatter
 - **Regional performance**: revenue and profit by region and country, with drill-down matrix
