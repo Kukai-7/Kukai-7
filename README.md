@@ -17,8 +17,8 @@ What I care about: clean models, honest charts, and asking *why* one more time t
 ### Now
 
 - Building an econometric model of what actually moves the **Nikkei 225**
-- Designing a **Power BI** market dashboard focused on Asia
-- Getting serious about SQL and DAX
+- Sharpening my **Power BI** and DAX on financial reporting
+- Getting serious about SQL
 - Mandarin every day, Japanese every week
 
 ---
@@ -27,32 +27,34 @@ What I care about: clean models, honest charts, and asking *why* one more time t
 
 #### Drivers of the Nikkei 225 · Econometrics
 
-Monthly OLS regression on the Japanese benchmark index: which macro and market variables explain its moves, and how much.
+Which macro-financial forces move Japan's benchmark index, do they survive Japan's own pricing factors, and did the 2026 oil shock change the answer?
 
-- Built the dataset, cleaned and aligned monthly series
-- Estimated and tested the model in Python, cross-checked in Excel
+- 250 monthly observations (2005 to 2026), full diagnostics: VIF, Breusch-Pagan, Breusch-Godfrey, Jarque-Bera, ADF
+- Structural break test on the 2026 oil shock (dummy, interaction, abnormal returns, Chow tests)
+- Fama-French Japan factors plus momentum, model selection by nested F-tests, AIC and BIC
 - Turned the results into a 10 minute presentation for a non-specialist audience
-<!-- Add 1 line with your final variables and the key finding once the project is done -->
+- **Result:** the yen and the S&P 500 explain about 64% of monthly Nikkei moves; oil only starts to matter after the March 2026 shock, and a Japan factor model reaches an adjusted R² of 0.91
 
 **Why it matters:** Japan is the market I follow most closely. This project forced me to separate correlation from story.
 
-`Python` `statsmodels` `Pandas` `Excel` `OLS`
+`Python` `statsmodels` `SciPy` `Pandas` `Matplotlib`
 
 👉 [nikkei-225-drivers](https://github.com/Kukai-7/nikkei-225-drivers)
 
 ---
 
-#### Asia Markets Dashboard · Power BI
+#### Pharma Sales & P&L Dashboard · Power BI
 
-Group project for the *Financial Data Visualization* course: a full pipeline from raw financial data to an interactive dashboard, presented live in Power BI (no slides allowed).
+A three-page Power BI report on a pharmaceutical distributor's sales, built on a clean star schema.
 
-- ETL in Power Query, data model and measures in Power BI
-- Focus on the Asia zone, benchmarked against Europe and the Americas
-- Designed for one question per page, not one chart per metric
+- **Executive P&L**: net revenue, gross margin, gross profit, year-over-year growth and a P&L waterfall
+- **Product performance**: top products by sales, volume and margin, with a margin vs revenue scatter
+- **Regional performance**: revenue and profit by region and country, with drill-down matrix
+- Star schema (one fact table, product, pharmacy, city and date dimensions) and a dedicated DAX measures table
 
-`Power BI` `Power Query` `DAX` `Data modeling`
+`Power BI` `Power Query` `DAX` `Star schema`
 
-👉 [asia-markets-dashboard](https://github.com/Kukai-7/asia-markets-dashboard)
+👉 [pharma-sales-dashboard](https://github.com/Kukai-7/pharma-sales-dashboard)
 
 ---
 
@@ -112,6 +114,8 @@ Tōkaidō and Ishibumi are where these interests meet code.
 
 ### Get in touch
 
-Always happy to talk data, finance, or East Asia. Find me on LinkedIn as **Elisée Toe**.
+Always happy to talk data, finance, or East Asia.
+
+[LinkedIn](https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/)
 
 <sub>温故知新 · learn the new by revisiting the old</sub>
