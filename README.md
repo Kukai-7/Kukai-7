@@ -11,6 +11,8 @@ I studied History before I studied finance, and it shows: I like data that tells
 
 I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**. Before that, China: an exchange semester in financial mathematics at Shenzhen University, export sales at the Canton Fair, and a year of cost control inside a factory in Dongguan.
 
+> **Motto** · *À cœur vaillant rien d'impossible*
+
 ---
 
 ### 🛠️ What I'm working on
@@ -144,5 +146,4 @@ Marco Polo, William of Rubruck, John of Plano Carpini, John of Montecorvino, Ibn
   <img height="150" src="https://streak-stats.demolab.com/?user=Kukai-7&hide_border=true&background=00000000&ring=B33A2B&fire=B33A2B&currStreakLabel=B33A2B&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" />
 </p>
 
-<sub><b>MOTTO</b></sub><br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=22&duration=3500&pause=1500&color=2F81F7&vCenter=true&width=620&height=40&lines=%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0;learn+the+new+by+revisiting+the+old" alt="温故知新" /></a>
