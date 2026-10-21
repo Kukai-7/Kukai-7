@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Elisée 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=44&lines=Data+Analyst+%C2%B7+Corporate+Finance;GTM+Lead+EMEA+%40+RootClean+AI;Between+Europe+and+China;Humanities+first%2C+data+second" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=44&lines=Data+Analyst+%C2%B7+Corporate+Finance;Opening+Europe+for+RootClean+AI;Between+Europe+and+China;Humanities+first%2C+data+second" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -10,7 +10,7 @@
 
 I studied History before I studied finance, and it shows: I like data that tells a story someone can act on.
 
-I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**. Before that, China, where **Shenzhen became my adopted city**: sales and sourcing for an electronics trader, from the Canton Fair to supplier negotiations; a semester of finance at Shenzhen University; AI market intelligence in Nanjing; and cost control inside a Dongguan factory, reporting to the CFO.
+I'm doing an **MSc in Data & Corporate Finance at Audencia** and I help **RootClean AI**, an early-stage AI startup, open its European market. Before that, China, where **Shenzhen became my adopted city**: sales and sourcing for an electronics trader, from the Canton Fair to supplier negotiations; a semester of finance at Shenzhen University; AI market intelligence in Nanjing; and cost control inside a Dongguan factory, reporting to the CFO.
 
 > **Motto** · *À cœur vaillant rien d'impossible*
 
@@ -18,7 +18,7 @@ I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-
 
 ### 🛠️ What I'm working on
 
-- **GTM Lead EMEA @ RootClean AI**: bringing AI workflow automation to European companies, from first conversation with leadership to a scoped project
+- **RootClean AI**: a small team of Audencia alumni based in New York, automating business workflows with AI. I joined in October 2026 to build their go-to-market in Europe: finding industrial companies, talking to their leadership, and scoping first projects with our first European client
 - **Econometrics**: what actually moves the Nikkei 225
 - **Power BI & DAX** for financial reporting, and getting serious about SQL
 - Mandarin every day, Japanese every week
@@ -29,7 +29,7 @@ I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-
 
 | | Role | When | Where |
 |---|---|---|---|
-| **RootClean AI** | GTM Lead EMEA · AI workflow automation | Oct 2026 → now | New York · Europe |
+| **RootClean AI** | GTM Lead EMEA (early-stage startup, small founding team) | Oct 2026 → now | New York · Europe |
 | **Easy Factory** | Cost Controlling Intern, Finance (reporting to the CFO) | May → Sept 2026 | Dongguan 🇨🇳 |
 | **Shenzhen University × SAFTI** | Exchange semester, Master in Finance | Fall 2025 | Shenzhen 🇨🇳 |
 | **AirNet** | Corporate Strategy Intern, AI & Market Intelligence | June → Sept 2025 | Nanjing 🇨🇳 |
