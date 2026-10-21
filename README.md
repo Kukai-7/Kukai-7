@@ -8,11 +8,9 @@
   <img src="https://img.shields.io/badge/Adopted_home-Shenzhen_%E6%B7%B1%E5%9C%B3-24292F?style=flat-square" alt="Adopted home: Shenzhen" />
 </p>
 
-I came to finance through the humanities (three years of *classes préparatoires*: history, philosophy, economics, Latin), and it shows: I like data that tells a story someone can act on.
+I studied History before I studied finance, and it shows: I like data that tells a story someone can act on.
 
-I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**.
-
-**Shenzhen is my adopted city.** I've spent 18 months in China: overseas sales and sourcing for a Shenzhen electronics trader (Canton Fair supplier negotiations included), a strategy internship in AI market intelligence in Nanjing, an exchange semester in finance at Shenzhen University, and five months as cost controlling intern in a Dongguan factory, reporting to the CFO.
+I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**. Before that, China, where **Shenzhen became my adopted city**: sales and sourcing for an electronics trader, from the Canton Fair to supplier negotiations; a semester of finance at Shenzhen University; AI market intelligence in Nanjing; and cost control inside a Dongguan factory, reporting to the CFO.
 
 > **Motto** · *À cœur vaillant rien d'impossible*
 
@@ -146,7 +144,7 @@ Marco Polo, William of Rubruck, John of Plano Carpini, John of Montecorvino, Ibn
 - **Kendo**, practised in a club in Shenzhen, and rock climbing
 - Bloomberg and the NYT every morning
 
-🇫🇷 French (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (fluent) · 🇨🇳 Mandarin (intermediate, HSK 4 in progress) · 🇯🇵 Japanese (beginner) · 🏛️ Latin
+🇫🇷 French (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (fluent) · 🇨🇳 Mandarin (intermediate) · 🇯🇵 Japanese (beginner) · 🏛️ Latin
 
 <sub>Fluent in Spanish, and yet I've probably spent more hours with Cicero. He never ordered tapas.</sub>
 
