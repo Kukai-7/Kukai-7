@@ -34,7 +34,7 @@ I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-
 | **Shenzhen University × SAFTI** | Exchange semester, Master in Finance | Fall 2025 | Shenzhen 🇨🇳 |
 | **AirNet** | Corporate Strategy Intern, AI & Market Intelligence | June → Sept 2025 | Nanjing 🇨🇳 |
 | **E-Ran Technology** | Overseas Sales & Sourcing Intern | July 2024 → Jan 2025 | Shenzhen 🇨🇳 |
-| **EOS France** | Credit & Collection Analyst | Mar → June 2024 | France 🇫🇷 |
+| **ENGIE** | Credit & Collection Analyst, ENGIE portfolio (via EOS France) | Mar → June 2024 | France 🇫🇷 |
 | **Audencia** | Grande École Programme · MSc Data & Corporate Finance | 2023 → 2027 | France 🇫🇷 |
 
 ---
