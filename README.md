@@ -136,9 +136,12 @@ Marco Polo, William of Rubruck, John of Plano Carpini, John of Montecorvino, Ibn
 - **Drawing**, I love to sketch
 - **Ukiyo-e prints**: Hiroshige, Hokusai, and everything that travelled along the Tōkaidō
 - **Books**, a lot of them, in whatever language I can manage
+- **Rome**: the Punic Wars and the works of Cicero
 - Bloomberg and the NYT every morning
 
-🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin (intermediate) · 🇯🇵 Japanese (beginner)
+🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin (intermediate) · 🇯🇵 Japanese (beginner) · 🇪🇸 Spanish · 🏛️ Latin
+
+<sub>Honestly, I've spent more hours on Latin than on Spanish. Cicero doesn't order tapas.</sub>
 
 ---
 
