@@ -1,123 +1,108 @@
-<h1 align="left">Elisée Toe</h1>
+<h1>Hi there, I'm Elisée 👋</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=3200&pause=1400&color=B33A2B&vCenter=true&width=560&lines=Data+Analyst+%C2%B7+Finance+%26+Corporate+Data;Econometrics%2C+dashboards%2C+cost+analytics;Trained+as+a+historian%2C+working+with+data" alt="typing" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=44&lines=Data+Analyst+%C2%B7+Corporate+Finance;GTM+Lead+EMEA+%40+RootClean+AI;Paris+%C2%B7+Shenzhen+%C2%B7+Dongguan;Trained+as+a+historian%2C+working+with+data" alt="Typing SVG" /></a>
+
+<p>
+  <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Paris-24292F?style=flat-square" alt="Based in Paris" />
+  <img src="https://img.shields.io/badge/Focus-Europe_%C3%97_China-B33A2B?style=flat-square" alt="Focus: Europe x China" />
 </p>
 
 I studied History before I studied finance, and it shows: I like data that tells a story someone can act on.
 
-I'm doing an **MSc in Data & Corporate Finance at Audencia** (Paris), after a year inside a manufacturing plant in Guangdong where I learned what a cost really is, one bill of materials at a time. Before that: export sales at the Canton Fair, an exchange semester in financial mathematics in Shenzhen, and a summer in AI consulting.
-
-What I care about: clean models, honest charts, and asking *why* one more time than necessary.
-
-`Python` · `Pandas` · `statsmodels` · `Excel / VBA` · `Power BI` · `Power Query` · `SQL` · `JavaScript`
+I'm doing an **MSc in Data & Corporate Finance at Audencia** (Paris) and I lead **go-to-market for Europe at RootClean AI**. Before that, China: an exchange semester in financial mathematics at Shenzhen University, export sales at the Canton Fair, and a year of cost control inside a factory in Dongguan.
 
 ---
 
-### Now
+### 🛠️ What I'm working on
 
-- Building an econometric model of what actually moves the **Nikkei 225**
-- Sharpening my **Power BI** and DAX on financial reporting
-- Getting serious about SQL
+- **GTM Lead EMEA @ RootClean AI**: bringing AI workflow automation to European companies, from first conversation with leadership to a scoped project
+- **Econometrics**: what actually moves the Nikkei 225
+- **Power BI & DAX** for financial reporting, and getting serious about SQL
 - Mandarin every day, Japanese every week
 
 ---
 
-### Featured work
+### 🧭 Experience
 
-#### Drivers of the Nikkei 225 · Econometrics
+| | Role | Context |
+|---|---|---|
+| **RootClean AI** | GTM Lead EMEA | AI workflow automation, New York · Europe |
+| **Easy Factory** | Cost Controlling Intern, Finance | OEM/ODM houseware manufacturer, Dongguan 🇨🇳 |
+| **AI consulting** | Summer internship | 2025 |
+| **Export sales** | B2B sales at the Canton Fair | Shenzhen 🇨🇳 |
+| **Shenzhen University** | Exchange, financial mathematics & data | Shenzhen 🇨🇳 |
+| **Audencia** | MSc Data & Corporate Finance | Paris 🇫🇷 |
+
+---
+
+### 📈 Featured work
+
+#### [Drivers of the Nikkei 225](https://github.com/Kukai-7/nikkei-225-drivers) · Econometrics
 
 Which macro-financial forces move Japan's benchmark index, do they survive Japan's own pricing factors, and did the 2026 oil shock change the answer?
 
-- 250 monthly observations (2005 to 2026), full diagnostics: VIF, Breusch-Pagan, Breusch-Godfrey, Jarque-Bera, ADF
-- Structural break test on the 2026 oil shock (dummy, interaction, abnormal returns, Chow tests)
-- Fama-French Japan factors plus momentum, model selection by nested F-tests, AIC and BIC
-- Turned the results into a 10 minute presentation for a non-specialist audience
-- **Result:** the yen and the S&P 500 explain about 64% of monthly Nikkei moves; oil only starts to matter after the March 2026 shock, and a Japan factor model reaches an adjusted R² of 0.91
-
-**Why it matters:** Japan is the market I follow most closely. This project forced me to separate correlation from story.
+- 250 monthly observations, full diagnostics, structural break tests on the 2026 oil shock
+- Fama-French Japan factors plus momentum, model selection by F-tests, AIC and BIC
+- **Result:** the yen and the S&P 500 explain about 64% of monthly moves; oil only matters after March 2026; the final factor model reaches an adjusted R² of 0.91
 
 `Python` `statsmodels` `SciPy` `Pandas` `Matplotlib`
 
-👉 [nikkei-225-drivers](https://github.com/Kukai-7/nikkei-225-drivers)
+#### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
+
+A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
+
+`Power BI` `Power Query` `DAX`
+
+#### [Manufacturing Cost Analytics](https://github.com/Kukai-7/manufacturing-cost-analytics) · Easy Factory
+
+Standard costing and purchasing analytics from the factory floor: BOM update automation in Python, purchasing price trends by material family, standard cost models, tooling analytics. Shown on **synthetic data**, originals stay under NDA.
+
+`Python` `openpyxl` `Excel` `React`
 
 ---
 
-#### Pharma Sales & P&L Dashboard · Power BI
-
-A three-page Power BI report on a pharmaceutical distributor's sales, built on a clean star schema.
-
-<img src="https://raw.githubusercontent.com/Kukai-7/pharma-sales-dashboard/main/pnl-waterfall.png" width="380" alt="P&L waterfall" />
-
-- **Executive P&L**: net revenue, gross margin, gross profit, year-over-year growth and a P&L waterfall
-- **Product performance**: top products by sales, volume and margin, with a margin vs revenue scatter
-- **Regional performance**: revenue and profit by region and country, with drill-down matrix
-- Star schema (one fact table, product, pharmacy, city and date dimensions) and a dedicated DAX measures table
-
-`Power BI` `Power Query` `DAX` `Star schema`
-
-👉 [pharma-sales-dashboard](https://github.com/Kukai-7/pharma-sales-dashboard)
-
----
-
-#### Cost Analytics in Manufacturing · Easy Factory, Dongguan
-
-Cost Controlling Intern (Finance) at an OEM/ODM houseware manufacturer, working on standard costing and purchasing analytics. The repo shows the methods on **synthetic data**: the original figures stay under NDA.
-
-- **BOM update automation** in Python on legacy Excel files, with a safe write strategy that doesn't break merged cells
-- **Purchasing price trends** across material families (silicone, plastics, outsourced parts, packaging)
-- **Standard costing model** for a product line, with a walkthrough deck for management
-- **Tooling analytics dashboard** tracking mold interventions by cause, built as an interactive web view
-
-**Why it matters:** data in a factory is messy, bilingual and spread across files that were never meant to talk to each other. Making it usable is most of the job.
-
-`Python` `openpyxl` `Excel` `React` `Recharts`
-
-👉 [manufacturing-cost-analytics](https://github.com/Kukai-7/manufacturing-cost-analytics)
-
----
-
-### Side projects
-
-<sub>Repos coming soon.</sub>
+### 🏯 Side projects
 
 | Project | What | Stack |
 |---|---|---|
-| Tōkaidō, the Quest | Walk the 53 stations from Edo to Kyoto through Hiroshige's prints, on a map projected from real coordinates | JavaScript, SVG |
-| Ishibumi | Location-based explorer of forgotten writers in Kyoto and Osaka | HTML, CSS, JavaScript |
+| **Tōkaidō, the Quest** | Walk the 53 stations from Edo to Kyoto through Hiroshige's prints, on a map projected from real coordinates | JavaScript, SVG |
+| **Ishibumi** | Location-based explorer of forgotten writers in Kyoto and Osaka | HTML, CSS, JavaScript |
+
+<sub>Repos coming soon.</sub>
 
 ---
 
-### Off the clock
+### 🔧 Tools
 
-- 📜 **History of Japan and China**, with a soft spot for the Edo period
-- 🖼️ **Ukiyo-e prints**: Hiroshige, Hokusai, and everything that travelled along the Tōkaidō
-- 📚 **Books**, a lot of them, in whatever language I can manage
-- 📰 Bloomberg and the NYT every morning
-
-Tōkaidō and Ishibumi are where these interests meet code.
-
----
-
-### Languages
-
-🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin (intermediate, learning) · 🇯🇵 Japanese (beginner, learning)
-
----
-
-### Activity
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kukai-7&layout=compact&hide_border=true&bg_color=00000000&title_color=B33A2B&text_color=8B949E" />
-  <img height="150" src="https://streak-stats.demolab.com/?user=Kukai-7&hide_border=true&background=00000000&ring=B33A2B&fire=B33A2B&currStreakLabel=B33A2B&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" />
+<p>
+  <img src="https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-24292F?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-24292F?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-24292F?style=flat-square&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel_/_VBA-24292F?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-24292F?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ---
 
-### Get in touch
+### 📜 Off the clock
 
-Always happy to talk data, finance, or East Asia.
+- **History of Japan and China**, with a soft spot for the Edo period
+- **Ukiyo-e prints**: Hiroshige, Hokusai, and everything that travelled along the Tōkaidō
+- **Books**, a lot of them, in whatever language I can manage
+- Bloomberg and the NYT every morning
 
-[LinkedIn](https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/)
+🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin (intermediate) · 🇯🇵 Japanese (beginner)
 
-<sub>温故知新 · learn the new by revisiting the old</sub>
+---
+
+<p>
+  <img height="150" src="https://streak-stats.demolab.com/?user=Kukai-7&hide_border=true&background=00000000&ring=B33A2B&fire=B33A2B&currStreakLabel=B33A2B&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" />
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=22&duration=3500&pause=1500&color=2F81F7&vCenter=true&width=620&height=40&lines=%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0;learn+the+new+by+revisiting+the+old" alt="温故知新" /></a>
