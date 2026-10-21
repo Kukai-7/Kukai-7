@@ -67,12 +67,13 @@ Standard costing and purchasing analytics from the factory floor: BOM update aut
 
 ### 🏯 Side projects
 
-| Project | What | Stack |
+| Project | What | |
 |---|---|---|
-| **Tōkaidō, the Quest** | Walk the 53 stations from Edo to Kyoto through Hiroshige's prints, on a map projected from real coordinates | JavaScript, SVG |
-| **Ishibumi** | Location-based explorer of forgotten writers in Kyoto and Osaka | HTML, CSS, JavaScript |
+| **東海道 · Tōkaidō, the Journey** | A cinematic walk along the Tōkaidō, from Edo to Naniwa, through Hiroshige's prints, on a map traced on Japan's real coastline | [▶ Play](https://kukai-7.github.io/tokaido/) · [Code](https://github.com/Kukai-7/tokaido) |
+| **月百姿 · One Hundred Aspects of the Moon** | An online exhibition of Yoshitoshi's last great series: for each print, its story, its hero's voice and a darker counter-tale | [▶ Open](https://kukai-7.github.io/hundred-aspects-of-the-moon/) · [Code](https://github.com/Kukai-7/hundred-aspects-of-the-moon) |
+| **Ishibumi** | Location-based explorer of forgotten writers in Kyoto and Osaka | *Coming soon* |
 
-<sub>Repos coming soon.</sub>
+<sub>Built in vanilla JavaScript, written in French. This is where my history side meets code.</sub>
 
 ---
 
