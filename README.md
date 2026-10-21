@@ -1,15 +1,18 @@
 <h1>Hi there, I'm Elisée 👋</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=44&lines=Data+Analyst+%C2%B7+Corporate+Finance;GTM+Lead+EMEA+%40+RootClean+AI;Between+Europe+and+China;Trained+as+a+historian%2C+working+with+data" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=24&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=44&lines=Data+Analyst+%C2%B7+Corporate+Finance;GTM+Lead+EMEA+%40+RootClean+AI;Between+Europe+and+China;Humanities+first%2C+data+second" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Focus-Europe_%C3%97_China-B33A2B?style=flat-square" alt="Focus: Europe x China" />
+  <img src="https://img.shields.io/badge/Adopted_home-Shenzhen_%E6%B7%B1%E5%9C%B3-24292F?style=flat-square" alt="Adopted home: Shenzhen" />
 </p>
 
-I studied History before I studied finance, and it shows: I like data that tells a story someone can act on.
+I came to finance through the humanities (three years of *classes préparatoires*: history, philosophy, economics, Latin), and it shows: I like data that tells a story someone can act on.
 
-I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**. Before that, China: an exchange semester in financial mathematics at Shenzhen University, export sales at the Canton Fair, and a year of cost control inside a factory in Dongguan.
+I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-market for Europe at RootClean AI**.
+
+**Shenzhen is my adopted city.** I've spent 18 months in China: overseas sales and sourcing for a Shenzhen electronics trader (Canton Fair supplier negotiations included), a strategy internship in AI market intelligence in Nanjing, an exchange semester in finance at Shenzhen University, and five months as cost controlling intern in a Dongguan factory, reporting to the CFO.
 
 > **Motto** · *À cœur vaillant rien d'impossible*
 
@@ -26,14 +29,15 @@ I'm doing an **MSc in Data & Corporate Finance at Audencia** and I lead **go-to-
 
 ### 🧭 Experience
 
-| | Role | Context |
-|---|---|---|
-| **RootClean AI** | GTM Lead EMEA | AI workflow automation, New York · Europe |
-| **Easy Factory** | Cost Controlling Intern, Finance | OEM/ODM houseware manufacturer, Dongguan 🇨🇳 |
-| **AI consulting** | Summer internship | 2025 |
-| **Export sales** | B2B sales at the Canton Fair | Shenzhen 🇨🇳 |
-| **Shenzhen University** | Exchange, financial mathematics & data | Shenzhen 🇨🇳 |
-| **Audencia** | MSc Data & Corporate Finance | France 🇫🇷 |
+| | Role | When | Where |
+|---|---|---|---|
+| **RootClean AI** | GTM Lead EMEA · AI workflow automation | Oct 2026 → now | New York · Europe |
+| **Easy Factory** | Cost Controlling Intern, Finance (reporting to the CFO) | May → Sept 2026 | Dongguan 🇨🇳 |
+| **Shenzhen University × SAFTI** | Exchange semester, Master in Finance | Fall 2025 | Shenzhen 🇨🇳 |
+| **AirNet** | Corporate Strategy Intern, AI & Market Intelligence | June → Sept 2025 | Nanjing 🇨🇳 |
+| **E-Ran Technology** | Overseas Sales & Sourcing Intern | July 2024 → Jan 2025 | Shenzhen 🇨🇳 |
+| **EOS France** | Credit & Collection Analyst | Mar → June 2024 | France 🇫🇷 |
+| **Audencia** | Grande École Programme · MSc Data & Corporate Finance | 2023 → 2027 | France 🇫🇷 |
 
 ---
 
@@ -83,6 +87,8 @@ Standard costing and purchasing analytics from the factory floor: BOM update aut
   <img src="https://img.shields.io/badge/Power_BI-24292F?style=flat-square&logo=powerbi&logoColor=F2C811" />
   <img src="https://img.shields.io/badge/Excel_/_VBA-24292F?style=flat-square&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-24292F?style=flat-square&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bloomberg_Terminal-24292F?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-24292F?style=flat-square&logo=cursor&logoColor=white" />
@@ -137,11 +143,12 @@ Marco Polo, William of Rubruck, John of Plano Carpini, John of Montecorvino, Ibn
 - **Ukiyo-e prints**: Hiroshige, Hokusai, and everything that travelled along the Tōkaidō
 - **Books**, a lot of them, in whatever language I can manage
 - **Rome**: the Punic Wars and the works of Cicero
+- **Kendo**, practised in a club in Shenzhen, and rock climbing
 - Bloomberg and the NYT every morning
 
-🇫🇷 French · 🇬🇧 English · 🇨🇳 Mandarin (intermediate) · 🇯🇵 Japanese (beginner) · 🇪🇸 Spanish · 🏛️ Latin
+🇫🇷 French (native) · 🇬🇧 English (fluent) · 🇪🇸 Spanish (fluent) · 🇨🇳 Mandarin (intermediate, HSK 4 in progress) · 🇯🇵 Japanese (beginner) · 🏛️ Latin
 
-<sub>Honestly, I've spent more hours on Latin than on Spanish. Cicero doesn't order tapas.</sub>
+<sub>Fluent in Spanish, and yet I've probably spent more hours with Cicero. He never ordered tapas.</sub>
 
 ---
 
