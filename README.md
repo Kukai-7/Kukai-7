@@ -1,10 +1,10 @@
-<h1>Elisée</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=48&lines=Hi+there%2C+I%27m+Elis%C3%A9e;Data+%26+Corporate+Finance;Opening+Europe+for+RootClean+AI;Between+Europe+and+China;Humanities+first%2C+data+second" alt="Hi there, I'm Elisée" /></a>
 
 <p><b>Data &amp; corporate finance, between Europe and China.</b> Humanities first, data second.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-24292F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://huggingface.co/Kukai-7"><img src="https://img.shields.io/badge/Hugging_Face-Kukai--7-24292F?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/Kukai-7"><img src="https://img.shields.io/badge/Hugging_Face-Kukai--7-2F4B7C?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" /></a>
   <img src="https://img.shields.io/badge/Focus-Europe_%C3%97_China-B33A2B?style=flat-square" alt="Focus: Europe x China" />
 </p>
 
@@ -62,6 +62,32 @@ What brought down the Ming? 111,623 disaster events from Chinese local gazetteer
 
 `Python` `Pandas` `Matplotlib` `Shapely` `Parquet`
 
+#### [Edo Rice, Paper and Protest](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) · Historical data on Hugging Face
+
+Did paper money and rice prices drive peasant revolts in Edo Japan? Fourteen rice price series, thirteen weather diaries read day by day, fifty notable uprisings and the domains that issued paper notes, 1620 to 1867, all on the map.
+
+- Prices jump about 17% above trend in famine years, after cool and rainy summers
+- The notable uprisings do not follow prices: thirty of fifty were about taxes, five about rice
+- [Code](https://github.com/Kukai-7/edo-rice-paper-protest)
+
+`Python` `Pandas` `Matplotlib` `Parquet`
+
+#### [Silver Road: Potosí to Ming China](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) · Historical data on Hugging Face
+
+Did American silver make, and then break, Ming China? The royal treasury of Potosí year by year, 1560 to 1823, the price of rice in silver in China, and the disasters of the late Ming, with the routes of the silver trade on a Pacific-centred map.
+
+- Registered silver goes from about 30 to 180 tonnes a year in two decades, then declines slowly; it does not collapse before 1644
+- Rice gets dearer in silver across the dynasty, and famine follows drought rather than silver
+- [Code](https://github.com/Kukai-7/silver-road-potosi-ming)
+
+`Python` `Pandas` `xlrd` `Matplotlib` `Parquet`
+
+<p>
+  <a href="https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas"><img src="https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas/resolve/main/assets/map_1637_1644.png" width="32%" alt="Ming Crisis Atlas" /></a>
+  <a href="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest"><img src="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest/resolve/main/assets/map_edo.png" width="32%" alt="Edo Rice, Paper and Protest" /></a>
+  <a href="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming"><img src="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming/resolve/main/assets/scatter_matrix.png" width="32%" alt="Silver Road" /></a>
+</p>
+
 #### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
 
 A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
@@ -97,7 +123,8 @@ Questions I play with, turning historical sources into small datasets:
 | Question | Data | Status |
 |---|---|---|
 | What brought down the Ming? | Famine, drought, banditry and climate shocks, county by county | [Dataset](https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas) |
-| Did paper money and rice prices drive peasant revolts in Edo Japan? | Uprisings, domain notes (*hansatsu*), rice famines | Next |
+| Did paper money and rice prices drive peasant revolts in Edo Japan? | Uprisings, domain notes (*hansatsu*), rice famines | [Dataset](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) |
+| Did American silver make, and then break, Ming China? | Potosí treasury accounts, rice prices in silver, late Ming disasters | [Dataset](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) |
 | How busy were the great ports of the 13th century? | Ship counts at Calicut and Guangzhou from travellers' accounts and port records | Open question |
 
 ---
@@ -114,4 +141,4 @@ French (native) · English (fluent) · Spanish (fluent) · Mandarin (intermediat
 
 <sub>Fluent in Spanish, and yet I've probably spent more hours with Cicero. He never ordered tapas.</sub>
 
-<sub>温故知新 · learn the new by revisiting the old</sub>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Serif+JP&weight=500&size=22&duration=3500&pause=1500&color=2F81F7&vCenter=true&width=620&height=40&lines=%E6%B8%A9%E6%95%85%E7%9F%A5%E6%96%B0;learn+the+new+by+revisiting+the+old" alt="温故知新 · learn the new by revisiting the old" /></a>
