@@ -44,7 +44,7 @@ Which macro-financial forces move Japan's benchmark index, do they survive Japan
 
 #### [BoJ Tone Tracker](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) · NLP on central bank language
 
-Hawkish or dovish? A RoBERTa classifier reads every Bank of Japan policy statement since 2013, sentence by sentence, and the resulting tone index is set against the Nikkei 225. Runs entirely in the browser.
+Hawkish or dovish? A RoBERTa classifier reads every Bank of Japan policy statement since 2013, sentence by sentence, and the resulting tone index is set against the Nikkei 225. Runs entirely in the browser: the chart opens instantly, and the model runs on the GPU when the browser allows it.
 
 - 133 statements, 2,591 sentences, scraped from the BoJ and cleaned
 - Pre-trained central bank model, served through a hand-built ONNX graph that streams the original weights
@@ -87,6 +87,16 @@ Did American silver make, and then break, Ming China? The royal treasury of Poto
   <a href="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest"><img src="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest/resolve/main/assets/map_edo.png" width="32%" alt="Edo Rice, Paper and Protest" /></a>
   <a href="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming"><img src="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming/resolve/main/assets/scatter_matrix.png" width="32%" alt="Silver Road" /></a>
 </p>
+
+#### [China under Deng](https://huggingface.co/datasets/Kukai-7/deng-era-china) · Macroeconomic data on Hugging Face
+
+Money, growth and opening, 1978 to 1997: 21 World Bank series set against the two decades before and against India, Japan and the United States, with a map of the reform zones and a dated list of reforms. Limits stated up front: official statistics, a flattering baseline, two inflation series. [Code](https://github.com/Kukai-7/deng-era-china)
+
+#### [France 1980 to 2026](https://huggingface.co/datasets/Kukai-7/france-economy-1980-2026) · Macroeconomic data on Hugging Face
+
+Twenty-three governments next to debt, deficits, growth, unemployment, pensions and the nuclear fleet, from INSEE, Eurostat and the World Bank. Descriptive and non-partisan: governments are set next to the data, not scored. [Code](https://github.com/Kukai-7/france-economy-1980-2026)
+
+`Python` `Pandas` `SDMX` `Matplotlib` `Parquet`
 
 #### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
 
