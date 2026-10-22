@@ -4,6 +4,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://huggingface.co/Kukai-7"><img src="https://img.shields.io/badge/Hugging_Face-Kukai--7-24292F?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></a>
   <img src="https://img.shields.io/badge/Focus-Europe_%C3%97_China-B33A2B?style=flat-square" alt="Focus: Europe x China" />
   <img src="https://img.shields.io/badge/Adopted_home-Shenzhen_%E6%B7%B1%E5%9C%B3-24292F?style=flat-square" alt="Adopted home: Shenzhen" />
 </p>
@@ -51,6 +52,16 @@ Which macro-financial forces move Japan's benchmark index, do they survive Japan
 
 `Python` `statsmodels` `SciPy` `Pandas` `Matplotlib`
 
+#### [BoJ Tone Tracker](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) · NLP on central bank language
+
+Hawkish or dovish? A RoBERTa classifier reads every Bank of Japan policy statement since 2013, sentence by sentence, and the resulting tone index is set against the Nikkei 225. Runs entirely in the browser.
+
+- 133 statements, 2,591 sentences, scraped from the BoJ and cleaned
+- Pre-trained central bank model, served through a hand-built ONNX graph that streams the original weights
+- Limits written up front: the model was trained on another central bank, and words are not policy
+
+`Hugging Face` `Transformers.js` `ONNX Runtime` `JavaScript`
+
 #### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
 
 A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
@@ -69,7 +80,7 @@ Standard costing and purchasing analytics from the factory floor: BOM update aut
 
 | Project | What | |
 |---|---|---|
-| **東海道 · Tōkaidō, the Journey** | A cinematic walk along the Tōkaidō, from Edo to Naniwa, through Hiroshige's prints, on a map traced on Japan's real coastline | [▶ Play](https://kukai-7.github.io/tokaido/) · [Code](https://github.com/Kukai-7/tokaido) |
+| **東海道 · Tōkaidō, the Journey** | A cinematic walk along the Tōkaidō, from Edo to Naniwa, through Hiroshige's prints, on a map traced on Japan's real coastline | [▶ Play](https://kukai-7.github.io/tokaido/) · [Code](https://github.com/Kukai-7/tokaido) · [Dataset](https://huggingface.co/datasets/Kukai-7/tokaido-53-stations) |
 | **月百姿 · One Hundred Aspects of the Moon** | An online exhibition of Yoshitoshi's last great series: for each print, its story, its hero's voice and a darker counter-tale | [▶ Open](https://kukai-7.github.io/hundred-aspects-of-the-moon/) · [Code](https://github.com/Kukai-7/hundred-aspects-of-the-moon) |
 | **Ishibumi** | Location-based explorer of forgotten writers in Kyoto and Osaka | *Coming soon* |
 
