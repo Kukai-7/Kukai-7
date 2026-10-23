@@ -98,6 +98,17 @@ Twenty-three governments next to debt, deficits, growth, unemployment, pensions 
 
 `Python` `Pandas` `SDMX` `Matplotlib` `Parquet`
 
+#### [China, AI and Manufacturing](https://huggingface.co/datasets/Kukai-7/china-ai-manufacturing) · Data on Hugging Face
+
+Where AI meets the factory floor, and which places are building it: robots, R&D and patents against four industrial peers, R&D spending in all 31 provinces, and a closer look at the Hangzhou, Shenzhen and Beijing clusters with 29 selected companies.
+
+- China installed 59% of the world's industrial robots in 2025, while its working-age population has been past its peak since 2015
+- Beijing, Guangdong and Zhejiang account for 31% of China's R&D; Beijing spends 6.58% of its GDP on it
+- Limits stated up front: province-level data, no direct measure of AI, a selection of companies, not investment advice
+- [Code](https://github.com/Kukai-7/china-ai-manufacturing)
+
+`Python` `Pandas` `Shapely` `Matplotlib` `Parquet`
+
 #### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
 
 A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
