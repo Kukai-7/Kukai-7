@@ -109,6 +109,28 @@ Where AI meets the factory floor, and which places are building it: robots, R&D 
 
 `Python` `Pandas` `Shapely` `Matplotlib` `Parquet`
 
+#### [Greater Bay Area Networks](https://huggingface.co/datasets/Kukai-7/greater-bay-area-networks) · Data on Hugging Face
+
+The eleven cities around the Pearl River estuary seen through their networks: ports and airports, bridges, railways and joint zones, research and companies, and the financial links between Hong Kong, Macao and the mainland.
+
+- 14.8 trillion yuan and 87.5 million people in 2024; Shenzhen, Guangzhou and Hong Kong produce 65% of it
+- Shenzhen and Guangzhou ports overtook Hong Kong: 33.4, 26.1 and 13.7 million TEU in 2024
+- Correlations across seven to eleven cities, with confidence intervals: suggestive, not proof
+- [Code](https://github.com/Kukai-7/greater-bay-area-networks)
+
+`Python` `Pandas` `Shapely` `Matplotlib` `Parquet`
+
+#### [China's Data Elements](https://huggingface.co/datasets/Kukai-7/china-data-elements) · Data on Hugging Face
+
+How China made data a factor of production, from the first data exchange in 2015 to the "Data Element ×" competition of 2026: laws, exchanges, accounting rules and official figures.
+
+- Data produced in China: 32.85 ZB in 2023, 52.26 ZB in 2025, about 27% of the world's
+- 136 listed companies booked 3.79 billion yuan of data as assets in their 2025 reports
+- Official figures, short series, many published as lower bounds; no correlation analysis
+- [Code](https://github.com/Kukai-7/china-data-elements)
+
+`Python` `Pandas` `Matplotlib` `Parquet`
+
 #### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
 
 A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
