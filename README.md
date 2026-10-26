@@ -32,116 +32,41 @@ I'm doing an **MSc in Data & Corporate Finance at Audencia** and I help **RootCl
 
 ### Featured work
 
-#### [Drivers of the Nikkei 225](https://github.com/Kukai-7/nikkei-225-drivers) · Econometrics
+Every project states its question, its sources and its limits up front.
 
-Which macro-financial forces move Japan's benchmark index, do they survive Japan's own pricing factors, and did the 2026 oil shock change the answer?
+**Data & finance**
 
-- 250 monthly observations, full diagnostics, structural break tests on the 2026 oil shock
-- Fama-French Japan factors plus momentum, model selection by F-tests, AIC and BIC
-- **Result:** the yen and the S&P 500 explain about 64% of monthly moves; oil only matters after March 2026; the final factor model reaches an adjusted R² of 0.91
+| Project | What it shows | Open |
+|---|---|---|
+| **Industrial Data Valuation** | Ranking the value of industrial data as an intangible asset: 17 compliance criteria, cost, market and income approaches, Monte Carlo and AHP, on an anonymised case with hypothetical figures. Relative ranking, not a price | [Page](https://kukai-7.github.io/industrial-data-valuation/) · [Code](https://github.com/Kukai-7/industrial-data-valuation) · [Data](https://huggingface.co/datasets/Kukai-7/synthetic-industrial-data-valuation) · [Demo](https://huggingface.co/spaces/Kukai-7/industrial-data-valuation-demo) |
+| **Drivers of the Nikkei 225** | 250 monthly observations: the yen and the S&P 500 explain about 64% of monthly moves; oil only matters after March 2026; the final factor model reaches an adjusted R² of 0.91 | [Code](https://github.com/Kukai-7/nikkei-225-drivers) |
+| **BoJ Tone Tracker** | A RoBERTa classifier reads 133 Bank of Japan statements since 2013, sentence by sentence, and sets the tone index against the Nikkei 225, in the browser | [Demo](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) |
+| **Pharma Sales & P&L Dashboard** | Three-page Power BI report: executive P&L with waterfall, products, regions, on a star schema with a DAX measures table | [Code](https://github.com/Kukai-7/pharma-sales-dashboard) |
+| **Manufacturing Cost Analytics** | BOM automation, purchasing price trends, standard costing and tooling analytics from the factory floor, shown on synthetic data (originals under NDA) | [Code](https://github.com/Kukai-7/manufacturing-cost-analytics) |
 
-`Python` `statsmodels` `SciPy` `Pandas` `Matplotlib`
+**China's data economy today**
 
-#### [BoJ Tone Tracker](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) · NLP on central bank language
+| Project | What it shows | Open |
+|---|---|---|
+| **China's Data Elements** | How data became a factor of production, 2015 to 2026, and the road to 2030: 52 ZB produced in 2025, a 6.78 trillion yuan data industry, and the official targets to 2035 | [Data](https://huggingface.co/datasets/Kukai-7/china-data-elements) · [Code](https://github.com/Kukai-7/china-data-elements) |
+| **China, AI and Manufacturing** | China installed 59% of the world's industrial robots in 2025; R&D in all 31 provinces; the Hangzhou, Shenzhen and Beijing clusters | [Data](https://huggingface.co/datasets/Kukai-7/china-ai-manufacturing) · [Code](https://github.com/Kukai-7/china-ai-manufacturing) |
+| **Greater Bay Area Networks** | Eleven cities, 14.8 trillion yuan: ports, airports, bridges, research, companies and financial links around the Pearl River estuary | [Data](https://huggingface.co/datasets/Kukai-7/greater-bay-area-networks) · [Code](https://github.com/Kukai-7/greater-bay-area-networks) |
 
-Hawkish or dovish? A RoBERTa classifier reads every Bank of Japan policy statement since 2013, sentence by sentence, and the resulting tone index is set against the Nikkei 225. Runs entirely in the browser: the chart opens instantly, and the model runs on the GPU when the browser allows it.
+**Economic history in data**
 
-- 133 statements, 2,591 sentences, scraped from the BoJ and cleaned
-- Pre-trained central bank model, served through a hand-built ONNX graph that streams the original weights
-- Limits written up front: the model was trained on another central bank, and words are not policy
-
-`Hugging Face` `Transformers.js` `ONNX Runtime` `JavaScript`
-
-#### [Ming Crisis Atlas](https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas) · Historical data on Hugging Face
-
-What brought down the Ming? 111,623 disaster events from Chinese local gazetteers, 1368 to 1644, each dated, mapped to one of 1,397 places and linked to its source, with El Niño and temperature reconstructions alongside.
-
-- In 1640, 229 places record people eating one another; two thirds of all such places in the dynasty fall in its last eight years
-- Annual panel built to separate weather from archive survival, with the limits written down
-- No simple El Niño signal: a negative result, kept in the card
-
-`Python` `Pandas` `Matplotlib` `Shapely` `Parquet`
-
-#### [Edo Rice, Paper and Protest](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) · Historical data on Hugging Face
-
-Did paper money and rice prices drive peasant revolts in Edo Japan? Fourteen rice price series, thirteen weather diaries read day by day, fifty notable uprisings and the domains that issued paper notes, 1620 to 1867, all on the map.
-
-- Prices jump about 17% above trend in famine years, after cool and rainy summers
-- The notable uprisings do not follow prices: thirty of fifty were about taxes, five about rice
-- [Code](https://github.com/Kukai-7/edo-rice-paper-protest)
-
-`Python` `Pandas` `Matplotlib` `Parquet`
-
-#### [Silver Road: Potosí to Ming China](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) · Historical data on Hugging Face
-
-Did American silver make, and then break, Ming China? The royal treasury of Potosí year by year, 1560 to 1823, the price of rice in silver in China, and the disasters of the late Ming, with the routes of the silver trade on a Pacific-centred map.
-
-- Registered silver goes from about 30 to 180 tonnes a year in two decades, then declines slowly; it does not collapse before 1644
-- Rice gets dearer in silver across the dynasty, and famine follows drought rather than silver
-- [Code](https://github.com/Kukai-7/silver-road-potosi-ming)
-
-`Python` `Pandas` `xlrd` `Matplotlib` `Parquet`
+| Project | What it shows | Open |
+|---|---|---|
+| **Ming Crisis Atlas** | 111,623 disaster events from local gazetteers, 1368 to 1644, mapped to 1,397 places; no simple El Niño signal, a negative result kept in the card | [Data](https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas) · [Code](https://github.com/Kukai-7/ming-crisis-atlas) |
+| **Edo Rice, Paper and Protest** | Rice prices jump about 17% above trend in famine years, but thirty of fifty notable uprisings were about taxes, five about rice | [Data](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) · [Code](https://github.com/Kukai-7/edo-rice-paper-protest) |
+| **Silver Road: Potosí to Ming China** | Registered silver rises from 30 to 180 tonnes a year, then declines slowly; famine follows drought rather than silver | [Data](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) · [Code](https://github.com/Kukai-7/silver-road-potosi-ming) |
+| **China under Deng** | Money, growth and opening, 1978 to 1997: 21 World Bank series against the decades before and against India, Japan and the United States | [Data](https://huggingface.co/datasets/Kukai-7/deng-era-china) · [Code](https://github.com/Kukai-7/deng-era-china) |
+| **France 1980 to 2026** | Twenty-three governments next to debt, deficits, growth, unemployment, pensions and the nuclear fleet; descriptive, not partisan | [Data](https://huggingface.co/datasets/Kukai-7/france-economy-1980-2026) · [Code](https://github.com/Kukai-7/france-economy-1980-2026) |
 
 <p>
+  <a href="https://kukai-7.github.io/industrial-data-valuation/"><img src="https://raw.githubusercontent.com/Kukai-7/industrial-data-valuation/main/outputs/figures/priority_matrix.png" width="32%" alt="Industrial Data Valuation" /></a>
+  <a href="https://huggingface.co/datasets/Kukai-7/china-data-elements"><img src="https://huggingface.co/datasets/Kukai-7/china-data-elements/resolve/main/assets/vision_2030.png" width="32%" alt="China's Data Elements, road to 2030" /></a>
   <a href="https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas"><img src="https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas/resolve/main/assets/map_1637_1644.png" width="32%" alt="Ming Crisis Atlas" /></a>
-  <a href="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest"><img src="https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest/resolve/main/assets/map_edo.png" width="32%" alt="Edo Rice, Paper and Protest" /></a>
-  <a href="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming"><img src="https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming/resolve/main/assets/scatter_matrix.png" width="32%" alt="Silver Road" /></a>
 </p>
-
-#### [China under Deng](https://huggingface.co/datasets/Kukai-7/deng-era-china) · Macroeconomic data on Hugging Face
-
-Money, growth and opening, 1978 to 1997: 21 World Bank series set against the two decades before and against India, Japan and the United States, with a map of the reform zones and a dated list of reforms. Limits stated up front: official statistics, a flattering baseline, two inflation series. [Code](https://github.com/Kukai-7/deng-era-china)
-
-#### [France 1980 to 2026](https://huggingface.co/datasets/Kukai-7/france-economy-1980-2026) · Macroeconomic data on Hugging Face
-
-Twenty-three governments next to debt, deficits, growth, unemployment, pensions and the nuclear fleet, from INSEE, Eurostat and the World Bank. Descriptive and non-partisan: governments are set next to the data, not scored. [Code](https://github.com/Kukai-7/france-economy-1980-2026)
-
-`Python` `Pandas` `SDMX` `Matplotlib` `Parquet`
-
-#### [China, AI and Manufacturing](https://huggingface.co/datasets/Kukai-7/china-ai-manufacturing) · Data on Hugging Face
-
-Where AI meets the factory floor, and which places are building it: robots, R&D and patents against four industrial peers, R&D spending in all 31 provinces, and a closer look at the Hangzhou, Shenzhen and Beijing clusters with 29 selected companies.
-
-- China installed 59% of the world's industrial robots in 2025, while its working-age population has been past its peak since 2015
-- Beijing, Guangdong and Zhejiang account for 31% of China's R&D; Beijing spends 6.58% of its GDP on it
-- Limits stated up front: province-level data, no direct measure of AI, a selection of companies, not investment advice
-- [Code](https://github.com/Kukai-7/china-ai-manufacturing)
-
-`Python` `Pandas` `Shapely` `Matplotlib` `Parquet`
-
-#### [Greater Bay Area Networks](https://huggingface.co/datasets/Kukai-7/greater-bay-area-networks) · Data on Hugging Face
-
-The eleven cities around the Pearl River estuary seen through their networks: ports and airports, bridges, railways and joint zones, research and companies, and the financial links between Hong Kong, Macao and the mainland.
-
-- 14.8 trillion yuan and 87.5 million people in 2024; Shenzhen, Guangzhou and Hong Kong produce 65% of it
-- Shenzhen and Guangzhou ports overtook Hong Kong: 33.4, 26.1 and 13.7 million TEU in 2024
-- Correlations across seven to eleven cities, with confidence intervals: suggestive, not proof
-- [Code](https://github.com/Kukai-7/greater-bay-area-networks)
-
-`Python` `Pandas` `Shapely` `Matplotlib` `Parquet`
-
-#### [China's Data Elements](https://huggingface.co/datasets/Kukai-7/china-data-elements) · Data on Hugging Face
-
-How China made data a factor of production, from the first data exchange in 2015 to the "Data Element ×" competition of 2026: laws, exchanges, accounting rules and official figures.
-
-- Data produced in China: 32.85 ZB in 2023, 52.26 ZB in 2025, about 27% of the world's
-- 136 listed companies booked 3.79 billion yuan of data as assets in their 2025 reports
-- Official figures, short series, many published as lower bounds; no correlation analysis
-- [Code](https://github.com/Kukai-7/china-data-elements)
-
-`Python` `Pandas` `Matplotlib` `Parquet`
-
-#### [Pharma Sales & P&L Dashboard](https://github.com/Kukai-7/pharma-sales-dashboard) · Power BI
-
-A three-page report on a pharmaceutical distributor: executive P&L with waterfall, product performance, regional performance. Built on a star schema with a dedicated DAX measures table.
-
-`Power BI` `Power Query` `DAX`
-
-#### [Manufacturing Cost Analytics](https://github.com/Kukai-7/manufacturing-cost-analytics) · Easy Factory
-
-Standard costing and purchasing analytics from the factory floor: BOM update automation in Python, purchasing price trends by material family, standard cost models, tooling analytics. Shown on **synthetic data**, originals stay under NDA.
-
-`Python` `openpyxl` `Excel` `React`
 
 ---
 
@@ -161,14 +86,7 @@ Standard costing and purchasing analytics from the factory floor: BOM update aut
 
 **Edo Japan**, the Genroku era above all: Osaka merchants, the floating world and the novels of Ihara Saikaku. **Song and Ming China**: paper money, maritime trade, porcelain and the long fall of the Ming. **Medieval travellers**: Marco Polo, William of Rubruck, John of Plano Carpini, John of Montecorvino, Ibn Battuta.
 
-Questions I play with, turning historical sources into small datasets:
-
-| Question | Data | Status |
-|---|---|---|
-| What brought down the Ming? | Famine, drought, banditry and climate shocks, county by county | [Dataset](https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas) |
-| Did paper money and rice prices drive peasant revolts in Edo Japan? | Uprisings, domain notes (*hansatsu*), rice famines | [Dataset](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) |
-| Did American silver make, and then break, Ming China? | Potosí treasury accounts, rice prices in silver, late Ming disasters | [Dataset](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) |
-| How busy were the great ports of the 13th century? | Ship counts at Calicut and Guangzhou from travellers' accounts and port records | Open question |
+Questions still open: how busy were the great ports of the 13th century? Ship counts at Calicut and Guangzhou, from travellers' accounts and port records.
 
 ---
 
