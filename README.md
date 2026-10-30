@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=48&lines=Hi+there%2C+I%27m+Elis%C3%A9e;Data+%26+Corporate+Finance;Opening+Europe+for+RootClean+AI;Between+Europe+and+China;Humanities+first%2C+data+second" alt="Hi there, I'm Elisée" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=26&duration=3000&pause=1200&color=B33A2B&vCenter=true&width=720&height=48&lines=Hi+there%2C+I%27m+Elis%C3%A9e;Data+%26+Corporate+Finance;Opening+Europe+for+RootClean+AI;Between+Europe+and+China;Old+records%2C+new+decisions" alt="Hi there, I'm Elisée" /></a>
 
-<p><b>Data &amp; corporate finance, between Europe and China.</b> Humanities first, data second.</p>
+<p><b>Data &amp; corporate finance, between Europe and China.</b> Every dataset is a historical record: the old ones explain, the recent ones decide.</p>
 
 <p>
   <a href="https://www.linkedin.com/in/elis%C3%A9e-t-2150892a2/"><img src="https://img.shields.io/badge/LinkedIn-Elis%C3%A9e-24292F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -56,6 +56,7 @@ Every project states its question, its sources and its limits up front.
 
 | Project | What it shows | Open |
 |---|---|---|
+| **Ming–Qing Ledgers** | How the Ming and Qing states closed their books: four-column reports, Dragon Gate double entry, 1,035 relay stations. The Ming identity is the one China now uses to book data as an asset | [Data](https://huggingface.co/datasets/Kukai-7/ming-qing-ledgers) · [Code](https://github.com/Kukai-7/ming-qing-ledgers) |
 | **Ming Crisis Atlas** | 111,623 disaster events from local gazetteers, 1368 to 1644, mapped to 1,397 places; no simple El Niño signal, a negative result kept in the card | [Data](https://huggingface.co/datasets/Kukai-7/ming-crisis-atlas) · [Code](https://github.com/Kukai-7/ming-crisis-atlas) |
 | **Edo Rice, Paper and Protest** | Rice prices jump about 17% above trend in famine years, but thirty of fifty notable uprisings were about taxes, five about rice | [Data](https://huggingface.co/datasets/Kukai-7/edo-rice-paper-protest) · [Code](https://github.com/Kukai-7/edo-rice-paper-protest) |
 | **Silver Road: Potosí to Ming China** | Registered silver rises from 30 to 180 tonnes a year, then declines slowly; famine follows drought rather than silver | [Data](https://huggingface.co/datasets/Kukai-7/silver-road-potosi-ming) · [Code](https://github.com/Kukai-7/silver-road-potosi-ming) |
