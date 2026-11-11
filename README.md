@@ -40,9 +40,9 @@ Every project states its question, its sources and its limits up front.
 |---|---|---|
 | **Industrial Data Valuation** | Ranking the value of industrial data as an intangible asset: 17 compliance criteria, cost, market and income approaches, Monte Carlo and AHP, on an anonymised case with hypothetical figures. Relative ranking, not a price | [Page](https://kukai-7.github.io/industrial-data-valuation/) · [Code](https://github.com/Kukai-7/industrial-data-valuation) · [Data](https://huggingface.co/datasets/Kukai-7/synthetic-industrial-data-valuation) · [Demo](https://huggingface.co/spaces/Kukai-7/industrial-data-valuation-demo) |
 | **Drivers of the Nikkei 225** | 250 monthly observations: the yen and the S&P 500 explain about 64% of monthly moves; oil only matters after March 2026; the final factor model reaches an adjusted R² of 0.91 | [Code](https://github.com/Kukai-7/nikkei-225-drivers) |
-| **BoJ Tone Tracker** | A RoBERTa classifier reads 133 Bank of Japan statements since 2013, sentence by sentence, and sets the tone index against the Nikkei 225, in the browser | [Demo](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) |
+| **BoJ Tone Tracker** | A RoBERTa classifier reads 133 Bank of Japan statements since 2013, sentence by sentence, and sets the tone index against the Nikkei 225, in the browser | [Demo](https://huggingface.co/spaces/Kukai-7/boj-tone-tracker) · [Code](https://github.com/Kukai-7/boj-tone-tracker) |
 | **Pharma Sales & P&L Dashboard** | Three-page Power BI report: executive P&L with waterfall, products, regions, on a star schema with a DAX measures table | [Code](https://github.com/Kukai-7/pharma-sales-dashboard) |
-| **Manufacturing Cost Analytics** | BOM automation, purchasing price trends, standard costing and tooling analytics from the factory floor, shown on synthetic data (originals under NDA) | [Code](https://github.com/Kukai-7/manufacturing-cost-analytics) |
+| **Manufacturing Cost Analytics** | Standard cost roll-up, purchase price exposure per product, a four-way variance bridge and tooling analysis, plus a script that updates Excel BOMs without breaking their layout. Synthetic data only | [Code](https://github.com/Kukai-7/manufacturing-cost-analytics) |
 
 **China's data economy today**
 
